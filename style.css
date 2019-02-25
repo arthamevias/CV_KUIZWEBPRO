@@ -1,0 +1,149 @@
+#bground {
+  height: 1150px;
+  background-image: url("foto/background.jpg");
+}
+#top{
+	text-align: center;
+	font-family: "consolas";
+	font-style: bold;
+	font-size: 12pt;
+}
+#topline{
+	width: 1295px;
+    height: 40px;
+    border-bottom: 10px solid #55552b;
+}
+#kotak1 {
+	width: 280px;
+	height:480px;
+	position: relative;
+	top: 30px;
+	border: 10px solid #bc5a45;
+	border-radius:25px;
+	background-color : #ccc47e;
+	margin-left: 100px;
+	margin-right:auto;
+	display:block;
+}
+#kotak2 {
+	width: 800px;
+	height: 225px;
+	border: 10px solid #bc5a45;
+	border-radius:25px;
+	background-color : #ccc47e;
+	display:block;
+	position: relative;
+	left: 430px;
+	bottom: 472px;
+}
+.kotak3{
+	width: 385px;
+	height: 220px;
+	border: 10px solid #bc5a45;
+	border-radius:25px;
+	background-color : #ccc47e;
+	display:block;
+}
+
+.kotak4{
+	width: 350px;
+	height: 400px;
+	border: 10px solid #bc5a45;
+	border-radius:25px;
+	background-color : #ccc47e;
+	display:block;
+}
+
+.line{
+    width: 1150px;
+    height: 40px;
+    border-bottom: 10px solid #55552b;
+    }
+
+.button {
+  background-color: #86af49;
+  border: none;
+  color: white;
+  cursor: grab;
+  padding: 3px 71px;
+  border-radius: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.a{
+	font-family: "bradley hand itc";
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 30px;
+	font-size: 30pt;
+	font-style: bold;
+	color: #ccc47e;
+	text-shadow: 3px 3px 0 #000000,
+    -1px 1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px -1px 0 #000000,
+    0px 1px 0 #000000,
+    0px -1px 0 #000000,
+    -1px 0px 0 #000000,
+    1px 0px 0 #000000,
+    2px 2px 0 #000000,
+    -2px 2px 0 #000000,
+    2px -2px 0 #000000,
+    -2px -2px 0 #000000,
+    0px 2px 0 #000000,
+    0px -2px 0 #000000,
+    -2px 0px 0 #000000,
+    2px 0px 0 #000000,
+    1px 2px 0 #000000,
+    -1px 2px 0 #000000,
+    1px -2px 0 #000000,
+    -1px -2px 0 #000000,
+    2px 1px 0 #000000,
+    -2px 1px 0 #000000,
+    2px -1px 0 #000000,
+    -2px -1px 0 #000000;
+}
+
+.b{
+	text-align: center;
+	margin-top: -35px;
+	font-family: "consolas";
+	font-style: bold;
+	font-size: 12pt;
+}
+.c {
+	font-family: "tw cen mt";
+	font-size: 14pt;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-style: bold;
+}
+
+#d{
+	font-family:  "high tower text"; 
+	font-size: 30pt;
+	text-align: center;
+}
+
+.e{
+	font-family: "high tower text";
+	text-align: center;
+	font-size: 16pt;
+	font-style: underline;
+}
+.f{
+	font-family: "high tower text";
+	text-align: center;
+	font-size: 18pt;
+	font-style: underline;
+}
+
+.g{
+	font-family: "tw cent mt";
+	font-size: 18pt;
+	font-style: underline;
+	margin-left: 10pt;
+}
